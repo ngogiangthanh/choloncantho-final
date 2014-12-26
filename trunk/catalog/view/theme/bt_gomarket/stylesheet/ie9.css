@@ -1,0 +1,5 @@
+ input[type="radio"] {margin-top:-4px; margin-left:-2px }
+ input.button { padding-top:4px}
+ .header-middle { margin-bottom:9px;}
+
+.breadcrumb a {background:url('../image/icon_breadcrumb.png') left 4px no-repeat;}
