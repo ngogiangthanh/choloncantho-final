@@ -1,0 +1,11 @@
+input[type="radio"] {margin-top:-4px; margin-left:-2px }
+
+
+.header-middle { margin-bottom:9px;}
+.sub-inside { margin-bottom:0}
+input[type="radio"] { margin:-3px 0 0 0}
+.product-info .image img{  width:auto}
+ input.button  { padding:0 12px 1px}
+
+ .breadcrumb a {background:url('../image/icon_breadcrumb.png') left 5px no-repeat;}
+ .boss_column_filter.box .box-content ul li .viewmore a { background:url(../image/i_more.png) no-repeat right 6px }

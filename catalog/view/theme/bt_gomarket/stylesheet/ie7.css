@@ -1,0 +1,125 @@
+/* God I hate Microsoft! */
+#header .clear{ margin-bottom:8px}
+#header #cart {}
+#header #cart .heading {}
+#header #cart .content {
+
+}
+#header #search {
+	position: inherit;
+	float: right;
+}
+#header .button-search {
+	top: 1px;
+}
+#header #search input {
+	padding: 3px 1px 1px 33px;
+	height: 19px;
+}
+/* menu */
+#menu ul li {
+	position: relative;
+}
+#menu ul li div {
+	z-index: 5;
+}
+#menu ul li.active div {
+	display: block;
+}
+.success, .warning, .attention, .information {
+	position: relative;
+}
+.success .close, .warning .close, .attention .close, .information .close {
+	position: absolute;
+	right: 10px;
+}
+.box-product > div {
+	display: inline;
+}
+.product-grid > div {
+	display: inline;
+}
+/* button */
+.product-info a.button span {
+	line-height: 12px;
+	display: block;
+}
+
+#boss_menu{z-index:100;}
+#boss_menu > ul > li{display:inline;}
+#boss_menu > ul > li > a{display:inline-block; line-height:38px}
+#boss_menu > ul > li > div.dropdown{ }
+#boss_menu > ul > li:first-child{}
+#boss_menu > ul > li > div.dropdown a.parent + .column.category li > div.sub_menu ul {width:100%}
+#boss_menu > ul > li > div.dropdown a.parent + .column.category li > div.sub_menu ul li{margin-left:19px; }
+#boss_menu > ul > li > div.dropdown .column.category li{display:inline-block}
+#boss_menu ul li ul li > div.sub_menu{left:140px} 
+
+#static-header-top:hover .sub-inside { top:39px}
+
+.camera_fakehover{min-height:278px!important}
+
+input.button{ padding:6px 12px 5px; line-height:normal}
+a.button  ,a.button span { line-height:24px}
+a.boss_button_color, input.boss_button_color { line-height:29px}
+.option  a.boss_button_color ,.option input.boss_button_color { line-height:normal}
+
+a.button-checkout, input.button-checkout { line-height:35px}
+
+input[type="radio"] { margin:-4px 0 0 -4px}
+input[type="checkbox"] { margin-left:-4px}
+
+.login-content .right  a  { vertical-align:7px}
+
+#content { overflow:hidden; padding-bottom:10px; margin-bottom:0}
+.home_page  #content { padding-bottom:10px}
+#column-left  + #content , #column-right  + #content  { padding-bottom:30px}
+
+.breadcrumb a { background:url('../image/icon_breadcrumb.png') left 5px no-repeat;}
+.product-list .wishlist, .product-list .compare { margin-top:4px}
+.buttons .wishlist, .buttons .compare { margin-top:4px}
+
+.product-compare { padding-top:5px}
+.product-filter select { position:relative; top:2px }
+.category-info  { margin-bottom:0}
+.category-list { overflow: hidden;	margin-bottom: 16px;}
+
+.category_heading span, .ta-related span  ,
+.boss_tab a{ line-height:29px}
+
+#column-left .box .box-heading span, #column-right .box .box-heading span { line-height:normal; padding:6px 0 8px 20px}
+#column-left  + #content .product-grid , #column-left  + #content .product-grid{ overflow:hidden}
+
+/*checkout*/
+.checkout-content .right a { position:relative; top:-5px}
+#checkout .checkout-content .left input[type="radio"] { position:relative; top:2px; left:-3px;}
+
+
+.sub-inside { margin-bottom:0}
+
+.boss_homecategory_tab .htabs a.selected, .boss_homecategory_tab .htabs a:hover  { line-height:27px}
+.boss_homecategory_tab .htabs a  { line-height:normal}
+.boss_search input[type="text"]{ position:relative; top:4px}
+.boss_search select{ position:relative; top:2px}
+
+.choose-select select { margin-top:6px}
+.choose-select input[type="text"]{ height:auto; margin-top:9px}
+
+#static-header-top, #boss_menu {margin-bottom:0}
+.home_page #boss_menu , .home_page #static-header-top{ margin-bottom:10px}
+
+
+.mini-cart-info .remove { top:5px}
+
+.cart-info tbody .quantity input[type='image'], .cart-info tbody .quantity img { top:-2px;}
+
+.boss_column_filter.box .box-heading, 
+.boss_homecategory_nonetab .box-heading,
+.boss_homecategory_column .box-heading  { padding-bottom:7px}
+.boss_column_filter.box .box-content ul li .viewmore a {background: url(../image/i_more.png) no-repeat right 6px;}
+
+.wishlist-info tbody td.remove { padding-top:32px} 
+.cart-info tbody td.remove { padding-top:34px} 
+
+.cloud-zoom-title { left:0}
+.manufacturer-content { overflow: hidden;}

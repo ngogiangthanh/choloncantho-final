@@ -1,0 +1,49 @@
+<modification>
+	<id>OC-Extensions.com - Facebook Comments</id>
+	<version>1.0</version>
+	<vqmver>1.0.8</vqmver>
+	<author>oc-extensions.com</author>
+
+	<file name="system/library/document.php">
+		<operation error="log">
+			<search position="after"><![CDATA[private $scripts = array();]]></search>
+			<add><![CDATA[private $fbmetas = array();]]></add>
+		</operation>
+		
+		<operation error="log">
+			<search position="after" offset="2"><![CDATA[public function getScripts() {]]></search>
+			<add><![CDATA[
+			public function addFBMeta($property, $content = ''){
+				$this->fbmetas[md5($property)] = array(
+					'property' => $property,
+					'content'  => $content
+				);
+			}
+			
+			public function getFBMetas(){
+				return $this->fbmetas;
+			}
+			]]></add>
+		</operation>
+	</file>
+	
+	<file name="catalog/controller/common/header.php">
+		<operation error="log">
+			<search position="after"><![CDATA[$this->data['scripts'] = $this->document->getScripts();]]></search>
+			<add><![CDATA[$this->data['fbmetas'] = $this->document->getFBMetas();]]></add>
+		</operation>
+	</file>
+	
+	<file name="catalog/view/theme/*/template/common/header.tpl">
+		<operation error="log">
+			<search position="after"><![CDATA[<base href="<?php echo $base; ?>" />]]></search>
+			<add><![CDATA[
+			<?php foreach($fbmetas as $fbmeta) {?>
+			<meta property="<?php echo $fbmeta['property']; ?>" content="<?php echo addslashes($fbmeta['content']); ?>" />
+			<?php } ?>
+			]]></add>
+		</operation>
+	</file>
+	
+	
+</modification>

@@ -1,0 +1,1146 @@
+2014-12-08 11:15:52 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\mau\system\library\mail.php on line 150
+2014-12-08 12:01:20 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:20 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:01:20 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:01:20 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:01:20 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:01:20 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:21 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:01:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:34 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 182
+2014-12-08 12:02:34 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 183
+2014-12-08 12:02:34 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 186
+2014-12-08 12:02:34 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 187
+2014-12-08 12:02:34 - PHP Notice:  Error: Could not load language ! in C:\xampp\htdocs\mau\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 82
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 82
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 82
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 82
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_nonetab.php on line 87
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_column.php on line 74
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_nonetab.php on line 87
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_column.php on line 74
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_nonetab.php on line 87
+2014-12-08 12:02:35 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_column.php on line 74
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:35 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: title in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 101
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: information_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 102
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: title in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 101
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: information_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 102
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: title in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 101
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: information_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 102
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: title in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 101
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: information_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 102
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-08 12:02:36 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:02:36 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:13 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 182
+2014-12-08 12:03:13 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 183
+2014-12-08 12:03:13 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 186
+2014-12-08 12:03:13 - PHP Notice:  Undefined index: Vi in C:\xampp\htdocs\mau\index.php on line 187
+2014-12-08 12:03:13 - PHP Notice:  Error: Could not load language ! in C:\xampp\htdocs\mau\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:13 - PHP Notice:  Undefined index:  in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:03:14 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:15 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:03:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:34 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:14:35 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:36 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:14:37 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:15:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:15:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:19:28 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:19:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:21:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:21:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:29 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:22:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:30 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_homecategory_tab.php on line 84
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:22:41 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:22:42 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:22 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:28:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:28:23 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_staticblock.php on line 7
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:28:24 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:28:25 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:29:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:29:46 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:29:47 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:29:48 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:07 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:33:07 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:33:08 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_columnfilter.php on line 74
+2014-12-08 12:33:08 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:33:08 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:08 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:33:09 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 6
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_quickselect.php on line 27
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:34:16 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_slideshow.php on line 22
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:35:12 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:05 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 120
+2014-12-08 12:36:06 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-08 12:36:06 - PHP Notice:  Undefined index: 3 in C:\xampp\htdocs\mau\catalog\controller\module\boss_megamenu.php on line 171
+2014-12-14 13:13:24 - PHP Notice:  Undefined variable: footer_top in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\footer.tpl on line 3
+2014-12-14 13:13:25 - PHP Notice:  Undefined variable: footer_bottom in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\footer.tpl on line 29
+2014-12-14 13:13:25 - PHP Notice:  Undefined variable: boss_search in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 104
+2014-12-14 13:13:25 - PHP Notice:  Undefined variable: boss_megamenu in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 108
+2014-12-14 13:13:25 - PHP Notice:  Undefined variable: header_top in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 109
+2014-12-14 13:13:25 - PHP Notice:  Undefined variable: header_bottom in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 110
+2014-12-14 13:13:53 - PHP Notice:  Undefined variable: footer_top in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\footer.tpl on line 3
+2014-12-14 13:13:53 - PHP Notice:  Undefined variable: footer_bottom in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\footer.tpl on line 29
+2014-12-14 13:13:53 - PHP Notice:  Undefined variable: boss_search in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 104
+2014-12-14 13:13:53 - PHP Notice:  Undefined variable: boss_megamenu in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 108
+2014-12-14 13:13:53 - PHP Notice:  Undefined variable: header_top in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 109
+2014-12-14 13:13:53 - PHP Notice:  Undefined variable: header_bottom in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 110
+2014-12-14 14:18:12 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\mau\system\library\mail.php on line 150
+2014-12-14 14:18:12 - PHP Notice:  Undefined index: seller_avatar_name in C:\xampp\htdocs\mau\catalog\controller\account\register-seller.php on line 101
+2014-12-14 14:18:13 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\mau\system\library\mail.php on line 150
+2014-12-14 14:18:14 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\mau\system\library\mail.php on line 150
+2014-12-20 6:55:19 - PHP Notice:  Undefined variable: footer_top in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\footer.tpl on line 3
+2014-12-20 6:55:19 - PHP Notice:  Undefined variable: footer_bottom in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\footer.tpl on line 29
+2014-12-20 6:55:20 - PHP Notice:  Undefined variable: boss_search in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 104
+2014-12-20 6:55:20 - PHP Notice:  Undefined variable: boss_megamenu in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 108
+2014-12-20 6:55:20 - PHP Notice:  Undefined variable: header_top in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 109
+2014-12-20 6:55:20 - PHP Notice:  Undefined variable: header_bottom in C:\xampp\htdocs\mau\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 110
+2014-12-20 6:56:47 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\mau\system\library\mail.php on line 150
+2014-12-20 6:56:48 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\mau\system\library\mail.php on line 150
+2014-12-20 12:29:25 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_homecategory_tab.php on line 82
+2014-12-20 12:29:26 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_homecategory_nonetab.php on line 87
+2014-12-20 12:29:27 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:29:27 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:29:27 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:29:27 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-20 12:29:27 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-20 12:29:27 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-20 12:31:14 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_homecategory_tab.php on line 82
+2014-12-20 12:31:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:31:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:31:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:31:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-20 12:31:15 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-20 12:31:15 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-20 12:33:05 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:33:05 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:33:05 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_quickselect.php on line 26
+2014-12-20 12:33:05 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-20 12:33:05 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-20 12:33:05 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-20 12:38:57 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 76
+2014-12-20 12:38:57 - PHP Notice:  Undefined index: image in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 77
+2014-12-20 12:38:57 - PHP Notice:  Undefined index: category_id in C:\xampp\htdocs\cholonup\catalog\controller\module\boss_megamenu.php on line 78
+2014-12-20 12:40:03 - PHP Notice:  Undefined index: opt_product_ids in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:40:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:40:47 - PHP Notice:  Undefined index: opt_product_ids in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:40:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:41:22 - PHP Notice:  Undefined index: opt_product_ids in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:41:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:42:00 - PHP Notice:  Undefined index: opt_product_ids in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 12:42:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\cholonup\admin\view\template\module\boss_megamenu.tpl on line 269
+2014-12-20 13:59:19 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\cholonup\system\library\mail.php on line 150
+2014-12-23 7:40:17 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\cholonup\system\library\mail.php on line 150
+2014-12-23 7:42:20 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\cholonup\system\library\mail.php on line 150
+2014-12-23 7:42:21 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\cholonup\system\library\mail.php on line 150
+2014-12-24 10:51:12 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-24 10:52:33 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-24 10:52:47 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-24 10:53:20 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-24 10:53:23 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-24 11:05:17 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-25 9:08:54 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-25 9:09:03 - PHP Notice:  Error: Could not load model total/ms_shipping! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_engine_loader.php on line 54
+2014-12-25 9:26:45 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:26:45 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:33:46 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:33:46 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:35:28 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:35:28 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:35:34 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:35:34 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:35:43 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:35:43 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:36:16 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:36:16 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:37:57 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:37:57 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:40:04 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:40:04 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:41:51 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:41:51 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:48:59 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:48:59 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:51:42 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:51:42 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:52:05 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:52:05 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:53:40 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:53:40 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:56:32 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 9:56:32 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 10:00:42 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 10:00:42 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: prefix in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 79
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: language_code in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 100
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: page_url in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: colorscheme in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: face_height in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: face_width in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: show_faces in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: tream in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: border_color in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:04 - PHP Notice:  Undefined variable: header in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: prefix in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 79
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: language_code in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 100
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: page_url in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: colorscheme in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: face_height in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: face_width in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: show_faces in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: tream in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: border_color in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:19:12 - PHP Notice:  Undefined variable: header in C:\xampp\htdocs\cholonup\catalog\view\theme\bt_gomarket\template\common\header.tpl on line 105
+2014-12-25 10:26:39 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:31:48 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:31:54 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:33:35 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:33:36 - PHP Notice:  Undefined variable: column_status2 in C:\xampp\htdocs\cholonup\admin\view\template\common\home.tpl on line 93
+2014-12-25 10:36:28 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:41:36 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:41:47 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:46:51 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:52:27 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\cholonup\system\library\mail.php on line 150
+2014-12-25 10:52:59 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:52:59 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:53:42 - PHP Warning:  mail() [<a href='function.mail'>function.mail</a>]: Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\cholonup\system\library\mail.php on line 150
+2014-12-25 10:53:59 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 10:53:59 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 10:54:48 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 10:54:48 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:23:07 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:23:07 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:34:28 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:34:28 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:35:32 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:35:32 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:35:43 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:35:43 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:37:50 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:37:50 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:46:28 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:46:28 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:47:20 - PHP Notice:  Error: Table 'mau1.order' doesn't exist<br />Error No: 1146<br />update `order` set `tinh_trang`='Đang chuyển hàng' where `order_id`=53 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 11:54:34 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 11:54:34 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:01:24 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:01:24 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:01:34 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_sale_order_info.tpl on line 105
+2014-12-25 12:04:48 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:04:48 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:14:19 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:14:19 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:18:22 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:18:22 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:18:27 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:18:27 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:20:03 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 12:20:03 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 14:48:57 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 15:46:35 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 15:57:21 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 16:04:29 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 16:51:13 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 16:52:37 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 17:01:08 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 17:20:37 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:20:37 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:29:44 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:29:44 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:46:58 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:46:58 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:48:57 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 17:48:57 - PHP Notice:  Undefined variable: language in C:\xampp\htdocs\cholonup\catalog\view\theme\default\template\multiseller\printBill.tpl on line 3
+2014-12-25 17:56:45 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 17:56:45 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 18:02:19 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 18:02:19 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 18:04:34 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 18:04:34 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 18:06:55 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 18:06:55 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 18:09:56 - PHP Notice:  Undefined variable: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_sale_order_info.tpl on line 105
+2014-12-25 18:16:35 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 18:16:35 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 18:57:48 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 18:57:48 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 18:57:48 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 18:57:48 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 18:58:24 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 18:58:24 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 18:58:25 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 18:58:25 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 18:58:25 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 18:58:25 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 19:00:26 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:00:26 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:01:00 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:01:00 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:03:53 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:03:53 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:05:59 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:05:59 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:08:20 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:08:20 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:10:06 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:10:06 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:10:21 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:10:21 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:11:38 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:11:38 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:11:43 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:11:43 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:13:23 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:13:23 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_sale_order.php on line 332
+2014-12-25 19:17:31 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 19:17:55 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 19:21:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 19:22:21 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 19:23:12 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 19:24:33 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						' at line 2<br />Error No: 1064<br />SELECT tinh_trang
+					SQL_CALC_FOUND_ROWS
+					*,
+						(SELECT SUM(seller_net_amt) AS total
+						FROM res_ms_order_product_data mopd
+						WHERE order_id = o.order_id
+						AND seller_id = 4) as total_amount,
+					
+						(SELECT GROUP_CONCAT(name)
+						FROM res_order_product
+						LEFT JOIN res_ms_order_product_data
+						USING(order_id, product_id)
+						WHERE order_id = o.order_id
+						AND seller_id = mopd.seller_id) as products,
+					1
+		FROM `res_order` o
+		INNER JOIN `res_ms_order_product_data` mopd
+		USING (order_id)
+		WHERE seller_id = 4 GROUP BY order_id HAVING 1 = 1  ORDER BY order_id ASC LIMIT 0, 10 in C:\xampp\htdocs\cholonup\system\database\mysql.php on line 50
+2014-12-25 19:27:14 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 19:27:14 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 19:27:15 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 19:27:15 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 19:27:41 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:27:41 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:27:42 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 19:27:42 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 19:27:42 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 19:27:42 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 19:27:52 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:27:52 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:27:53 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 19:27:53 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 19:27:53 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 19:27:53 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 19:28:31 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:28:31 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:28:31 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 19:28:31 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 19:28:31 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 19:28:31 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 19:31:07 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:31:07 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:34:35 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:34:35 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:41:42 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:41:42 - PHP Notice:  Undefined variable: tinhtrang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 181
+2014-12-25 19:47:07 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 19:47:07 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 20:20:09 - PHP Notice:  Error: Could not load language multiseller/multiseller_physical! in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-system_library_language.php on line 39
+2014-12-25 20:20:09 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 5
+2014-12-25 20:20:09 - PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_controller_common_header.php on line 8
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_multiseller in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 207
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_sellers in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 209
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_seller_groups in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 210
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_attributes in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 211
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_products in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 212
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_transactions in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 213
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_payment in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 214
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_badge in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 215
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_comments in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 216
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_shipping_methods in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 218
+2014-12-25 20:20:09 - PHP Notice:  Undefined variable: ms_menu_settings in C:\xampp\htdocs\cholonup\vqmod\vqcache\vq2-admin_view_template_common_header.tpl on line 220
+2014-12-25 20:20:50 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-25 20:20:50 - PHP Notice:  Undefined index: tinh_trang in C:\xampp\htdocs\cholonup\admin\controller\common\home.php on line 182
+2014-12-26 8:02:33 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:02:33 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:07:21 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:07:21 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:07:25 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:07:25 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:09:45 - PHP Notice:  Undefined variable: tinh_trang in D:\xampp\htdocs\choloncantho\admin\view\template\sale\order_info.tpl on line 105
+2014-12-26 8:09:56 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\sale\order.php on line 332
+2014-12-26 8:09:56 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\sale\order.php on line 332
+2014-12-26 8:12:06 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:12:06 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:15:37 - PHP Notice:  Undefined variable: tinh_trang in D:\xampp\htdocs\choloncantho\admin\view\template\sale\order_info.tpl on line 105
+2014-12-26 8:16:07 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\sale\order.php on line 332
+2014-12-26 8:16:07 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\sale\order.php on line 332
+2014-12-26 8:17:57 - PHP Notice:  Undefined variable: tinh_trang in D:\xampp\htdocs\choloncantho\admin\view\template\sale\order_info.tpl on line 105
+2014-12-26 8:17:58 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
+2014-12-26 8:17:58 - PHP Notice:  Undefined index: tinh_trang in D:\xampp\htdocs\choloncantho\admin\controller\common\home.php on line 182
